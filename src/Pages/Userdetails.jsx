@@ -71,7 +71,7 @@ const Userdetails = () => {
           <HStack spacing={"70px"} width={"45%"}>
             <Select
               placeholder="Filter By Gender"
-              variant="outline"
+             
               size="lg"
               onChange={handlechange}
             >
